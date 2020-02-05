@@ -1,0 +1,60 @@
+{
+    "Light": {
+        "pastelFriend": {
+            "Light3b": 1.0,
+            "Light3g": 0.5921569,
+            "Light4b": 0.5,
+            "Light1g": 0.5,
+            "Light1b": 0.0,
+            "Light4r": 0.4529412,
+            "Light2r": 0.0,
+            "Light3r": 0.4980392,
+            "Light2b": 0.362745,
+            "Light4g": 0.0,
+            "Light2g": 0.5,
+            "Light1r": 0.4568627
+        },
+        "Midnight": {
+            "Light3b": 1.0,
+            "Light3g": 0.1843137,
+            "Light4b": 0.5,
+            "Light1g": 0.0,
+            "Light1b": 1.0,
+            "Light4r": 0.4529412,
+            "Light2r": 1.0,
+            "Light3r": 0.0,
+            "Light2b": 0.0,
+            "Light4g": 0.0,
+            "Light2g": 0.5450981,
+            "Light1r": 0.3568628
+        },
+        "FireStarter": {
+            "Light3b": 0.0,
+            "Light3g": 1.0,
+            "Light4b": 0.0,
+            "Light1g": 0.5450981,
+            "Light1b": 0.0,
+            "Light4r": 0.0,
+            "Light2r": 1.0,
+            "Light3r": 0.9137255,
+            "Light2b": 0.0,
+            "Light4g": 0.0,
+            "Light2g": 0.0,
+            "Light1r": 1.0
+        },
+        "Forest": {
+            "Light3b": 0.0,
+            "Light3g": 0.5,
+            "Light4b": 0.1764706,
+            "Light1g": 0.0,
+            "Light1b": 0.2764706,
+            "Light4r": 0.0,
+            "Light2r": 0.9568627,
+            "Light3r": 0.1823529,
+            "Light2b": 0.4980392,
+            "Light4g": 1.0,
+            "Light2g": 1.0,
+            "Light1r": 0.5
+        }
+    }
+}
