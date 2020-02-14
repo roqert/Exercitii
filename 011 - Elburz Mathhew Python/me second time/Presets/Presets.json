@@ -1,0 +1,64 @@
+{
+    "Video": {
+        "preset-04": {
+            "Sx": 2.3,
+            "Speed": 1.0,
+            "Contrast": 1.0199999809265137,
+            "Tx": 0.0,
+            "Invert": 0.0,
+            "Ty": 0.0,
+            "Fx": true,
+            "Blacklevel": 0.7900000214576721,
+            "File": "/Applications/TouchDesigner099.app/Contents/Resources/tfs/Samples/Map/FieldGuide640x480.tif",
+            "Opacity": 0.5550000071525574,
+            "Loopcrossfade": 0.24199999868869781,
+            "Rotate": 43.0,
+            "Sy": 2.3
+        },
+        "preset-01": {
+            "Sx": 2.3,
+            "Speed": 1.0,
+            "Contrast": 0.8299999833106995,
+            "Tx": 0.0,
+            "Invert": 0.9750000238418579,
+            "Ty": 0.0,
+            "Fx": true,
+            "Blacklevel": 0.1599999964237213,
+            "File": "/Applications/TouchDesigner099.app/Contents/Resources/tfs/Samples/Map/BoxMap.tif",
+            "Opacity": 0.17000000178813934,
+            "Loopcrossfade": 0.11500000208616257,
+            "Rotate": -36.0,
+            "Sy": 2.3
+        },
+        "preset-02": {
+            "Sx": 1.0,
+            "Speed": 1.0,
+            "Contrast": 1.2000000476837158,
+            "Invert": 0.9549999833106995,
+            "Tx": 0.0,
+            "Ty": 0.0,
+            "Sy": 1.0,
+            "Blacklevel": 0.23000000417232513,
+            "File": "/Applications/TouchDesigner099.app/Contents/Resources/tfs/Samples/Map/CloudyOcean_2Kx1K_8bit.tif",
+            "Opacity": 0.18000000715255737,
+            "Loopcrossfade": 0.052000001072883606,
+            "Rotate": -180.0,
+            "Fx": true
+        },
+        "preset-03": {
+            "Sx": 2.3,
+            "Speed": 1.0,
+            "Contrast": 0.949999988079071,
+            "Tx": 0.0,
+            "Invert": 0.9750000238418579,
+            "Ty": 0.0,
+            "Fx": true,
+            "Blacklevel": 0.6000000238418579,
+            "File": "/Applications/TouchDesigner099.app/Contents/Resources/tfs/Samples/Map/Butterfly1.tif",
+            "Opacity": 0.5299999713897705,
+            "Loopcrossfade": 0.11500000208616257,
+            "Rotate": -133.0,
+            "Sy": 2.3
+        }
+    }
+}
